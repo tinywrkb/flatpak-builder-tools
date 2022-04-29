@@ -1,4 +1,5 @@
-from typing import NamedTuple, Optional, Dict, Iterator
+from typing import Dict, Iterator, NamedTuple, Optional
+
 from .integrity import Integrity
 from .requests import Requests
 
